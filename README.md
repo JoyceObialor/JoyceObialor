@@ -11,7 +11,7 @@ I promote the power of data to drive innovation, impact, and informed decision-m
 
 I am a passionate Data Analyst with a background in Business Education (Accounting), driven by a strong desire to uncover insights and deliver data-driven solutions that enhance business growth and organizational performance. I enjoy merging business insight, financial understanding, and analytical thinking to solve complex problems and create impact across different sectors.
 
-I help transform data into clear, actionable insights that guide decisions and drive meaningful change. My technical toolkit includes Power BI, Microsoft tools (Excel, PowerPoint, Word), Canva SQL, Python and Google Sheets, which I use to analyze, visualize, and communicate findings effectively.
+I help transform data into clear, actionable insights that guide decisions and drive meaningful change. My technical toolkit includes Power BI, Microsoft tools (Excel, PowerPoint, Word), Canva, SQL, Python and Google Sheets, which I use to analyze, visualize, and communicate findings effectively.
 
 Beyond analytics, I value collaboration and community impact. I enjoy engaging with like-minded professionals, volunteering, teaching academic research writing, and contributing to projects that use data to foster growth in this evolving digital era.
 
@@ -26,7 +26,8 @@ I am continuously learning and improving my skills to drive change and make meas
 - Analytical Tools – Power BI, Excel, Google Sheets,
 - Python -  Data Manipulation and Visualization using Pandas, Matplotlib
 - Microsoft Suite – PowerPoint, Word, Excel
-- Spss - Descriptive 
+- Spss - Descriptive
+- Canva
 
 ## Core Competencies
 
