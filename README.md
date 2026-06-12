@@ -4,7 +4,7 @@ Data Analyst | turning data into insights that stimulate growth and support bett
 
 ---
 ## Mission
-I promote the power of data to drive innovation, impact, and informed decision-making across organizations, businesses, school and health sector. My goal is to turn data into actionable insights that stimulate growth, empower others and give business value.
+I promote the power of data to drive innovation, impact, and informed decision-making across organizations, businesses, schools, and the health sector. My goal is to transform data into actionable insights that stimulate growth, empower others, and create business value.
 
 ---
 ## About Me
