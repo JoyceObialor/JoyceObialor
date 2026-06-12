@@ -42,7 +42,8 @@ I am continuously learning and improving my skills to drive change and make meas
 
 ---
 ## Projects
-
+Retail Sales and Returns Performance-Analysis
+This project analyzes retail sales performance and sales returns to understand how returned orders affect business outcomes. The analysis combines sales, profit, order, delivery, and return data to identify trends, evaluate financial impact, and highlight areas for operational improvement(.https://github.com/JoyceObialor/Retail-Sales-and-Returns-Performance-Analysis/tree/main)
 
 
 <!--
