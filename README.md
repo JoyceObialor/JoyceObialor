@@ -4,14 +4,14 @@ Data Analyst | turning data into insights that stimulate growth and support bett
 
 ---
 ## Mission
-I promote the power of data to drive innovation, impact, and informed decision-making across organizations, businesses, school and health sector. My goal is to turn data into actionable insights that instimulate growth, empower others and give value.
+I promote the power of data to drive innovation, impact, and informed decision-making across organizations, businesses, school and health sector. My goal is to turn data into actionable insights that stimulate growth, empower others and give business value.
 
 ---
 ## About Me
 
 I am a passionate Data Analyst with a background in Business Education (Accounting), driven by a strong desire to uncover insights and deliver data-driven solutions that enhance business growth and organizational performance. I enjoy merging business insight, financial understanding, and analytical thinking to solve complex problems and create impact across different sectors.
 
-I help transform data into clear, actionable insights that guide decisions and drive meaningful change. My technical toolkit includes Power BI, Microsoft tools (Excel, PowerPoint, Word), SQL, Python and Google Sheets, which I use to analyze, visualize, and communicate findings effectively.
+I help transform data into clear, actionable insights that guide decisions and drive meaningful change. My technical toolkit includes Power BI, Microsoft tools (Excel, PowerPoint, Word), Canva SQL, Python and Google Sheets, which I use to analyze, visualize, and communicate findings effectively.
 
 Beyond analytics, I value collaboration and community impact. I enjoy engaging with like-minded professionals, volunteering, teaching academic research writing, and contributing to projects that use data to foster growth in this evolving digital era.
 
